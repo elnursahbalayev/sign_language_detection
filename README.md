@@ -103,9 +103,6 @@ You can customize the project by:
 - Tuning the RandomForest classifier parameters
 - Modifying the camera settings
 
-## License
-
-[Include your license information here]
 
 ## Acknowledgements
 
